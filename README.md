@@ -1,2 +1,2 @@
-# jogo_da_velhar
+# jogo_da_velha
 Jogo da velha desenvolvido em javaScript
